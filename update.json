@@ -1,0 +1,7 @@
+{
+  "version": "1.3.14",
+  "android": {
+    "url": "https://github.com/zshawchaw/OrionTV-Updates/releases/download/v1.3.14/OrionTV-androidTV-v1.3.14.apk"
+  },
+  "releaseNotes": "- 建立自有更新渠道\n- 改进播放源搜索、自动回退与续播稳定性\n- 改进电视端错误提示"
+}
