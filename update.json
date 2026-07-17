@@ -1,7 +1,7 @@
 {
-  "version": "1.3.15",
+  "version": "1.3.16",
   "android": {
-    "url": "https://github.com/zshawchaw/OrionTV-Updates/releases/download/v1.3.15/OrionTV-androidTV-v1.3.15.apk"
+    "url": "https://github.com/zshawchaw/OrionTV-Updates/releases/download/v1.3.16/OrionTV-androidTV-v1.3.16.apk"
   },
-  "releaseNotes": "- 暂停后允许电视按系统设置休眠\n- 仅在实际播放时保持屏幕常亮"
+  "releaseNotes": "- 大幅增强遥控器焦点提示：白色描边、绿色高亮、放大和阴影\n- 设置项、播放控制、搜索框和视频卡片的焦点态更清晰"
 }
