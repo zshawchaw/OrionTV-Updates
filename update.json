@@ -1,7 +1,7 @@
 {
-  "version": "1.3.16",
+  "version": "1.3.17",
   "android": {
-    "url": "https://github.com/zshawchaw/OrionTV-Updates/releases/download/v1.3.16/OrionTV-androidTV-v1.3.16.apk"
+    "url": "https://github.com/zshawchaw/OrionTV-Updates/releases/download/v1.3.17/OrionTV-androidTV-v1.3.17.apk"
   },
-  "releaseNotes": "- 大幅增强遥控器焦点提示：白色描边、绿色高亮、放大和阴影\n- 设置项、播放控制、搜索框和视频卡片的焦点态更清晰"
+  "releaseNotes": "- 恢复剧集标题显示：优先显示真实集名，不再统一显示“第 N 集”\n- 支持标题$地址、对象形式和独立标题列表\n- 修复切换播放源后丢失剧集标题的问题"
 }
