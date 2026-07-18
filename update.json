@@ -1,7 +1,7 @@
 {
-  "version": "1.3.17",
+  "version": "1.3.18",
   "android": {
-    "url": "https://github.com/zshawchaw/OrionTV-Updates/releases/download/v1.3.17/OrionTV-androidTV-v1.3.17.apk"
+    "url": "https://github.com/zshawchaw/OrionTV-Updates/releases/download/v1.3.18/OrionTV-androidTV-v1.3.18.apk"
   },
-  "releaseNotes": "- 恢复剧集标题显示：优先显示真实集名，不再统一显示“第 N 集”\n- 支持标题$地址、对象形式和独立标题列表\n- 修复切换播放源后丢失剧集标题的问题"
+  "releaseNotes": "- 修复 MoonTV 的 episodes_titles 字段未被识别，选集现在显示真实标题\n- 恢复旧版的通用选集解析，兼容嵌套集合、CMS 播放串和对象播放列表\n- 修复切换播放源后标题元数据丢失的问题"
 }
