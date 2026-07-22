@@ -1,7 +1,7 @@
 {
-  "version": "1.3.24",
+  "version": "1.3.25",
   "android": {
-    "url": "https://github.com/zshawchaw/OrionTV-Updates/releases/download/v1.3.24/OrionTV-androidTV-v1.3.24.apk"
+    "url": "https://github.com/zshawchaw/OrionTV-Updates/releases/download/v1.3.25/OrionTV-androidTV-v1.3.25.apk"
   },
-  "releaseNotes": "- 修复 Apple TV 播放控制面板显示时按返回键会先退出视频、随后又恢复的问题\n- Apple TV 的播放源选择面板与字体整体放大 2 倍\n- 保持 Android TV 的播放面板与返回键行为不变"
+  "releaseNotes": "- 修复部分视频在播放控制面板中显示空白选集列表的问题\n- 修复 Apple TV 控制面板显示时按 Menu/返回键仍会退出视频的竞态，并避免子面板关闭事件继续退出播放\n- Apple TV 的播放源与选集面板、按钮和字体按 2 倍尺寸显示；Android TV 界面保持不变\n- 改进更新发布顺序，确保安装包可下载后才更新客户端清单"
 }
