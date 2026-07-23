@@ -1,7 +1,7 @@
 {
-  "version": "1.3.26",
+  "version": "1.3.27",
   "android": {
-    "url": "https://github.com/zshawchaw/OrionTV-Updates/releases/download/v1.3.26/OrionTV-androidTV-v1.3.26.apk"
+    "url": "https://github.com/zshawchaw/OrionTV-Updates/releases/download/v1.3.27/OrionTV-androidTV-v1.3.27.apk"
   },
-  "releaseNotes": "- Apple TV 播放控制面板展开时，Menu/退出键现在始终先收起控制面板；面板收起后再次按键才退出视频\n- 修复暂停后 5 秒自动隐藏边界及打开选集、播放源、倍速子面板时的退出竞态\n- 恢复旧版 Apple TV 主界面的大尺寸导航、分类、海报卡片与标题布局，Android TV 界面保持不变\n- 撤销误加到选集和播放源面板的 2 倍缩放，并保留选集标题及空列表修复"
+  "releaseNotes": "- 统一播放控制面板中 -30、+30 与图标按钮的焦点框尺寸\n- 固定快退/快进文字行高，避免在高分辨率电视上焦点框异常放大\n- 将播放进度条焦点框改为独立覆盖层，切换焦点时播放条不再上移或跳动"
 }
